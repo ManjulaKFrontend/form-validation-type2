@@ -1,0 +1,14 @@
+.col>div{
+    margin-bottom: 20px;
+}
+
+.invalid-feedback{
+    text-align: end;
+    padding: 0.5rem 3rem 0 0;
+}
+.form{
+    background-color:burlywood;
+}
+input{
+    margin-bottom: 20px;
+}
